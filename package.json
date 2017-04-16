@@ -1,0 +1,30 @@
+{
+  "name": "mlh-hackathons-calendar",
+  "version": "1.0.0",
+  "description": " Extract all hackathons organized by MLH in an icalendar file.",
+  "main": "script.js",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  },
+  "devDependencies": {
+    "nightmare": "^2.10.0"
+  },
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannywillems/mlh-hackathon-calendar.git"
+  },
+  "keywords": [
+    "MLH",
+    "hackathons",
+    "calendar"
+  ],
+  "author": "Danny Willems",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dannywillems/mlh-hackathon-calendar/issues"
+  },
+  "homepage": "https://github.com/dannywillems/mlh-hackathon-calendar#readme"
+}
